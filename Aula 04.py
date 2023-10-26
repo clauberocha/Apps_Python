@@ -62,4 +62,4 @@ for num in range(a):
 nota = int(input('Entre com a nota: '))
 while nota > 10:
     nota = int(input('Nota Inválida. Entre com a nota correta: '))
-    
+     
